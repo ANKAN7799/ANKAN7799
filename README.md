@@ -1,3 +1,4 @@
+<img align="right" alt="coding" height="100" width="200" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 # 💫 About Me:
  Hi 👋, I'm Ankan Kundu, a B.Tech, CSE undergrad student at UEMK.<br> I am passionate about coding , development.<br>🔭 I’m currently working on " My School " .<br>🌱 I’m currently learning Java-script, DSA.<br>💬 Ask me about DSA , CSS ,C++ ,Python.<br>📫 How to reach me " create.code09@gmail.com " .<br>👨‍💻 All of my social media sites are available at " [https://medium.com/me/settings/account](https://linktr.ee/CREATE_CODE_09?utm_source=linktree_admin_share) " .<br>
 
