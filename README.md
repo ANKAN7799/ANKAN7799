@@ -20,7 +20,7 @@ src= "https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c04
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@ANKAN_01)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<img align="right" alt="coding" width="300"  src="https://i.gifer.com/3rNn.gif">
+<img align="right" alt="coding" width="300"  src = "https://i.gifer.com/3rNn.gif">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
