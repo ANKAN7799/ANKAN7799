@@ -23,6 +23,9 @@ src= "https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c04
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ANKAN7799&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
