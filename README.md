@@ -1,7 +1,7 @@
 <img align="center" alt="coding" width=100% src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <br> <br>
 <div>
-<h1> Hi 👋, I'm Ankan Kundu, a B.Tech, CSE undergrad student at UEMK .<br> I am passionate about coding , development.</h1>
+<h1> Hi 👋, I'm Ankan Kundu, a B.Tech, CSE undergrad student,UEMK .<br> I am passionate about coding , development.</h1>
     </div>
   <div>
  <strong> <strong> <strong>  <br> <br>🔭 I’m currently working on " My School " project . <br>🌱 I’m currently learning - Java-script, DSA  .<br>💬 Ask me about : DSA , CSS ,C++ ,Python .<br> <br>📫 Reach-out to me using this mail-Id "create.code09@gmail.com" . <br>👨‍💻 All of my social media sites are available at  </strong> </strong></strong> "https://linktr.ee/CREATE_CODE_09?utm_source=linktree_admin_share" .<br><br><br><br>
