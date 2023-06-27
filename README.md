@@ -1,4 +1,12 @@
-<h1>Hi 👋, I'm Ankan Kundu, a B.Tech, CSE undergrad student at UEMK .</h1>
+ <span id="element"></span>
+<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+        <script>
+        var typed = new Typed('#element', {
+          strings: ["📩Connecting the Whole World"],
+          typeSpeed: 50,
+        });
+      </script>
+
 <img align="center" alt="coding" width=100% src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <br> <br>
  <strong> <strong> <strong> Hi 👋, I'm Ankan Kundu, a B.Tech, CSE undergrad student at UEMK . <br> I am passionate about coding , development.<br> <br>🔭 I’m currently working on " My School " project . <br>🌱 I’m currently learning - Java-script, DSA  .<br>💬 Ask me about : DSA , CSS ,C++ ,Python .<br> <br>📫 Reach-out to me using this mail-Id "create.code09@gmail.com" . <br>👨‍💻 All of my social media sites are available at  </strong> </strong></strong> "https://linktr.ee/CREATE_CODE_09?utm_source=linktree_admin_share" .<br><br><br><br>
