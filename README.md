@@ -2,9 +2,9 @@
 <br><br>
 <div>
 <h1> Hi👋, I'm <i>Ankan Kundu </i>, a B.Tech, CSE undergrad student,UEMK.<br> I am passionate about <i>coding , development</i> .</h1>
-    </div>
+ </div>
   <div>
-    <br><br><br><br>
+<br><br><br><br>
  <strong> 🌱 I’m currently learning - Java-script, DSA  .<br>💬 Ask me about : DSA , CSS ,C++ ,Python .<br> <br>📫 Reach-out to me using this mail-Id "create.code09@gmail.com" . <br>👨‍💻 All of my social media sites are available at  </strong> "https://linktr.ee/CREATE_CODE_09?utm_source=linktree_admin_share" .
     <br><br><br><br>
   </div>
