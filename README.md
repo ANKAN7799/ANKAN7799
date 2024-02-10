@@ -9,7 +9,7 @@
   </div>
 
 <img align="right" alt="coding" width="400" 
-src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw0QLx6m9aXdPdxcUs-l1bUS&ust=1707650925606000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDD7srVoIQDFQAAAAAdAAAAABAE">
+src= "https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankan-kundu-4659b4239/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ankan_09) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ANKAN_01) 
 
