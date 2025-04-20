@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width=100% src="[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)">
+<img align="center" alt="coding" width=100% src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 <br> <br>
 <div>
 <h1> Hi👋, I'm <i>Ankan Kundu </i>, a B.Tech, CSE undergrad student,UEMK.<br> I am passionate about <i>coding , development</i> .</h1>
