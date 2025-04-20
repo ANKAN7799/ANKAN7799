@@ -7,9 +7,6 @@
  <strong> 🌱 I’m currently learning - Java-script, DSA  .<br>💬 Ask me about : DSA , CSS ,C++ ,Python .<br> <br>📫 Reach-out to me using this mail-Id "create.code09@gmail.com" . <br>👨‍💻 All of my social media sites are available at  </strong> "https://linktr.ee/CREATE_CODE_09?utm_source=linktree_admin_share" .
     <br><br><br><br>
   </div>
-
-<img align="right" alt="coding" width="400" 
-src= "https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankan-kundu-4659b4239/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ankan_09) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ANKAN_01) 
 
