@@ -71,6 +71,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img alt="Visitor count" src="https://visitcount.itsvg.in/api?id=ANKAN7799&icon=2&color=8"></a>
-</p>
+<p align="center"> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ANKAN7799&label=Profile%20views&style=for-the-badge&color=blueviolet"> </p>
