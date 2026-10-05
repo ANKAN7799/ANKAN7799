@@ -1,7 +1,7 @@
 <img align="center" alt="coding" width=100% src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <br> <br>
 <div>
-<h1> Hi👋, I'm <i>Ankan Kundu </i>, a B.Tech, CSE graduate from UEM Kolkata.<br> I am passionate about <i>coding , development</i> .</h1>
+<h1> Hi👋, I'm <i>Ankan Kundu </i>, a B.Tech, CSE graduate from UEM Kolkata. I am passionate about <i>coding & development</i> .</h1>
  </div>
   <div>
  <strong>💻 Building web applications and ML-driven solutions.<br>💬 Let's discuss: DSA, web development, ML-driven product solutions, and agentic AI.<br> <br>📫 Reach-out to me using this mail-Id "create.code09@gmail.com" . <br>👨‍💻 All of my social media sites are available at  </strong> "https://linktr.ee/CREATE_CODE_09?utm_source=linktree_admin_share" .
