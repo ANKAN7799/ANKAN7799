@@ -59,16 +59,8 @@
 
 ---
 
-## 🐦 Latest Tweet
-
-[![Latest tweet](https://gtce.itsvg.in/api?username=@ankan_0099)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-
 ## ✍️ Random Dev Quote
 
 ![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<p align="center"> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ANKAN7799&label=Profile%20views&style=for-the-badge&color=blueviolet"> </p>
