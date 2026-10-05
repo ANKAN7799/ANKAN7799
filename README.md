@@ -4,7 +4,7 @@
 <h1> Hi👋, I'm <i>Ankan Kundu </i>, a B.Tech, CSE graduate from UEM Kolkata. I am passionate about <i>coding & development</i> .</h1>
  </div>
   <div>
- <strong>💻 Building web applications and ML-driven solutions.<br>💬 Let's discuss: DSA, web development, ML-driven product solutions, and agentic AI.<br> <br>📫 Reach-out to me using this mail-Id "create.code09@gmail.com". <br>👨‍💻 All of my social media sites are available at  </strong> "https://linktr.ee/CREATE_CODE_09?utm_source=linktree_admin_share".
+ <strong>💻 Building web applications and ML-driven solutions.<br>💬 Let's discuss: DSA, web development, ML-driven product solutions, and agentic AI.<br> <br>📫 Reach-out to me using this mail-Id -> "create.code09@gmail.com". <br>👨‍💻 All of my social media sites are available at  </strong> "https://linktr.ee/CREATE_CODE_09?utm_source=linktree_admin_share".
     <br><br>
   </div>
   
